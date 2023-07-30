@@ -2,6 +2,9 @@ package javainheritance;
 
 public class Bird extends Animal{
     void fly(){
-        System.out.println("To vuano");
+        System.out.println("I am flying");
+    }
+    void sing(){
+        System.out.println("I am singing");
     }
 }

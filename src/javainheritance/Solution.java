@@ -1,7 +1,5 @@
 package javainheritance;
 
-import java.io.*;
-
 public class Solution {
     public static void main(String[] args) throws Exception {
         
@@ -9,5 +7,6 @@ public class Solution {
 
         bird.walk();
         bird.fly();
+        bird.sing();
     }
 }
